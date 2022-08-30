@@ -1,0 +1,1 @@
+window.baseURL = "http://192.168.2.118:3000/admin/v1";

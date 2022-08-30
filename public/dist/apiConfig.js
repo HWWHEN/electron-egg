@@ -1,0 +1,1 @@
+window.baseURL = "https://preapi-marketplace.mechainfinity.com/admin/v1";

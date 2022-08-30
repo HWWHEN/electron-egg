@@ -1,0 +1,1 @@
+function u(e){return e=="0"?"unBan":new Date(parseInt(e)*1e3).toLocaleString().substr(0,18)}function n(e){return e<10?"0"+e:e}function a(e){let t=new Date(e);return t.getFullYear()+"/"+n(t.getMonth()+1)+"/"+n(t.getDate())+" "+n(t.getHours())+":"+n(t.getMinutes())+":"+n(t.getSeconds())}export{u as g,a as u};
